@@ -4,8 +4,9 @@ import java.util.ArrayList;
 
 /**
  * SubmittedQuestionnaireQuestion
+ * 
+ * Class to hold the info about a Question of a Submitted Questionnaire
  */
-
 public class SubmittedQuestionnaireQuestion {
     private int id;
     private String question;

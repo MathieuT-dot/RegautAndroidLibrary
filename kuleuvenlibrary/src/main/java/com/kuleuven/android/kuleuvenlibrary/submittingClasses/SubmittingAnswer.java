@@ -2,8 +2,9 @@ package com.kuleuven.android.kuleuvenlibrary.submittingClasses;
 
 /**
  * SubmittingAnswer
+ * 
+ * Class to hold the info about an Answer of a Question of a Questionnaire to be submitted
  */
-
 public class SubmittingAnswer {
 
     private int id;

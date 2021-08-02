@@ -3,9 +3,8 @@ package com.kuleuven.android.kuleuvenlibrary.getQuestionnaireClasses;
 /**
  * Answer
  *
- * Class to save the
+ * Class to hold the info about an Answer of a Question of a Questionnaire
  */
-
 public class Answer {
 
     private int id;

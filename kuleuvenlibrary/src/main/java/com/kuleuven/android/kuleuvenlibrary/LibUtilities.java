@@ -6,6 +6,11 @@ import android.util.Log;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+/**
+ * LibUtilities
+ *
+ * Class that holds multiple methods (utilities)
+ */
 public class LibUtilities {
 
     private static final String TAG = LibUtilities.class.getSimpleName();

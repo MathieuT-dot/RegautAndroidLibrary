@@ -3,6 +3,11 @@ package com.kuleuven.android.kuleuvenlibrary.setupClasses;
 import android.content.Context;
 import android.widget.LinearLayout;
 
+/**
+ * Snap
+ *
+ * Class to define a snapping locations the DragAndDropActivities
+ */
 public class Snap extends LinearLayout {
 
     private Float locationX;

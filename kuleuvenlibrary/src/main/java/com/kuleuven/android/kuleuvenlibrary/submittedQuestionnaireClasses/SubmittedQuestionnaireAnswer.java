@@ -2,8 +2,9 @@ package com.kuleuven.android.kuleuvenlibrary.submittedQuestionnaireClasses;
 
 /**
  * SubmittedQuestionnaireAnswer
+ * 
+ * Class to hold the info about an Answer of a Question of a Submitted Questionnaire
  */
-
 public class SubmittedQuestionnaireAnswer {
     private int id;
     private int typeId;

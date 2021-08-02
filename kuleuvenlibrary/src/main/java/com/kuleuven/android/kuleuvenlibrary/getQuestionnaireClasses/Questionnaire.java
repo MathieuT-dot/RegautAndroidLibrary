@@ -5,8 +5,9 @@ import java.util.Comparator;
 
 /**
  * Questionnaire
+ *
+ * Class to hold the info about a Questionnaire
  */
-
 public class Questionnaire {
 
     static final int NONE = 0;

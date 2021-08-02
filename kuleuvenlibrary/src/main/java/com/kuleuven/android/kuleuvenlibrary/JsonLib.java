@@ -20,6 +20,11 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.Locale;
 
+/**
+ * JsonLib
+ *
+ * Class that holds multiple methods to parse JSON strings
+ */
 public class JsonLib {
 
     private static final String TAG = JsonLib.class.getSimpleName();

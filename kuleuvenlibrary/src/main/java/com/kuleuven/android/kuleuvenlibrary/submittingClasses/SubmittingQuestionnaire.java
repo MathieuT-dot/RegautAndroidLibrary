@@ -4,8 +4,9 @@ import java.util.ArrayList;
 
 /**
  * SubmittingQuestionnaire
+ * 
+ * Class to hold the info about a Questionnaire to be submitted
  */
-
 public class SubmittingQuestionnaire {
 
     private int id;
